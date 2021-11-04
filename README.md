@@ -1,9 +1,11 @@
+## Get your API key
+
 For the API key, you need to create an .env.local file and put the API key in it.
 ```bash
 API_KEY=apikey
 ```
 To get your API key, go to the TMDB website and create an account.
-
+API documentation : (https://www.themoviedb.org/documentation/api?language=fr)
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
